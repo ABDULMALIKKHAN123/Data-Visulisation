@@ -1,17 +1,29 @@
 #print ("Hello World!")
-# name  = "Abdul "
-# Name  = "Malik "
-# Name  = "Khan "
+# first_name = "Abdul "
+# middle_name = "Malik "
+# last_name = "Khan "
 
-# print(name)
-# print(Name)
-# print(Name)
+#alag alag line me output chahiye to
+# print(first_name)
+# print(middle_name)
+# print(last_name)
+
+#agar ek hi line me output chahiye to
+# print(first_name, middle_name, last_name)
 
 
 # age =14
-# if age<18:
+# if age>18:
 #     print("Not Adult")
-# print(age)
+#print(age)
+
+
+# age = 14
+# if age >=18:
+#     print("Adult")
+# else:
+#     print("Not Adult")
+
 
 
 #line continuation
@@ -19,10 +31,17 @@
 # 4+5+6
 # print (total)
 
+
+# total = 1+2+4+6
+# print(total)
+
+
 # college_name="ABES Engineering\
 #  college"
 # print(college_name)
 
+# college_name="Madani Inter college"
+# print(college_name)
 
 
 
@@ -32,7 +51,7 @@
 
 #semantic in python
 # age =24
-# name ="hello"    galat hai check karna hai
+# name ="hello"   # galat hai check karna hai
 
 
 # variable =10
@@ -44,7 +63,9 @@
 # variable = 34.4
 # print(type(variable))
 
-
+# variable = 1232
+# print(type(variable))
+# print(variable)
 
 # a = 10+6j
 # print(a)

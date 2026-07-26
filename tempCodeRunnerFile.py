@@ -1,3 +1,3 @@
-a = 10+6j
-print(a)
-print(type(a))
+D = {1:"a", 2:"b",3:"c"}
+print(D)
+print(type(D))
