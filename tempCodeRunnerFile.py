@@ -1,3 +1,3 @@
-D = {1:"a", 2:"b",3:"c"}
-print(D)
-print(type(D))
+a = 10
+# b = 20 
+# print(a<b and a!=b)
