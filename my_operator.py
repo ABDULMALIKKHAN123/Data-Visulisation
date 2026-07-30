@@ -84,10 +84,41 @@
 # x = int (x)&5
 
 #Logical Operator
-a = 10
-b = 20 
-print(a<b and a!=b)
+# a = 10
+# b = 20 
+# print(a<b and a!=b)
 
-a = 10
-b = 20 
-print(a>b or a>b)
+# a = 10
+# b = 20 
+# print(a>b or a>b)
+
+#AND operator
+# a= 10
+# b = 20
+# print(a<b and a!=b)
+
+#Identity Operator(is / is not) ka o/p -- True/False aata hai
+# a = 10
+# b =10 
+# print(a is b)
+# print(a == b)
+
+
+# print(id(a),id(b))
+
+
+#else statement
+age = int(input("Enter your age:"))
+
+if age >=18:
+    print("You are allowed to vote in the election")
+
+
+if age<13:
+    print("you are a child: ")
+elif age<18:
+    print("You are a teenager: ")
+elif age<24:
+    print("You are Young")
+    
+
