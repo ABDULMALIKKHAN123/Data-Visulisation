@@ -45,10 +45,10 @@
 
 #Bitwise Operator
 # & bitwise AND
-# | botwise OR
+# | bitwise OR
 # ~ bitwise NOT
 # ^ bitwise XOR
-# >> bitwise rigt side
+# >> bitwise right side
 # << bitwise left side
 
 # a = 10
