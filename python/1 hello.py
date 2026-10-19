@@ -1,8 +1,8 @@
 #print ("Hello World!")
 
-# first_name = "Abdul "
-# middle_name = "Malik "
-# last_name = "Khan "
+first_name = "Abdul "
+middle_name = "Malik "
+last_name = "Khan "
 
 #alag alag line me output chahiye to
 # print(first_name)
@@ -10,7 +10,7 @@
 # print(last_name)
 
 #agar ek hi line me output chahiye to
-# print(first_name, middle_name, last_name)
+print(first_name, middle_name, last_name)
 
 
 # age =139
@@ -57,61 +57,70 @@
 # name ="hello"   # galat hai check karna hai
 
 
-variable =10
-print(type(variable))
+# variable =10
+# print(type(variable))
 
-variable= "abdul"
-print(type(variable))
+# variable= "abdul"
+# print(type(variable))
 
-variable = 34.4
-print(type(variable))
+# variable = 34.4
+# print(type(variable))
 
-variable = 1232
-print(type(variable))
-print(variable)
+# variable = 1232
+# print(type(variable))
+# print(variable)
 
-a = 10+6j
-print(a)
-print(type(a))
-
-
-
-x= True
-print(x)    
-print(type(x))
+# a = 10+6j
+# print(a)
+# print(type(a))
 
 
 
-xy = None
-print(xy)
-print(type(xy))
+# x= True
+# print(x)    
+# print(type(x))
 
 
 
-#collection
+# xy = None
+# print(xy)
+# print(type(xy))
+
+
+
+## collection
+
 #list
+
 # A =[1,None,2.4,"Hello",6+6j,True]
 # print(A)
 # print(type(A))
 
 
 #difference b/w list and touple
-#[touple is more secure comparasion to list]
+#[touple is more secure comparision to list]
 
 
 #tuple
+
 # B = (1,None,2.4,1,"Hello",6+6j,True)
 # print(B)
 # print(type(B))
 
 
 #set[index number ko access nahi karta hai]
+
 # C = {1,None,2.4,1,"Hello",6+6j,True}
 # print(C)
 # print(type(C))
 
 
 #Dictionary[curly braces use hota hai]
-# D = {1:"a", 2:"b",3:"c"}
-# print(D)
-# print(type(D))
+
+D = {
+    1:"a", 
+    2:"b",
+    3:"c"
+    }
+print(D)
+print(type(D))
