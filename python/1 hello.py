@@ -1,4 +1,5 @@
 #print ("Hello World!")
+
 # first_name = "Abdul "
 # middle_name = "Malik "
 # last_name = "Khan "
@@ -12,10 +13,12 @@
 # print(first_name, middle_name, last_name)
 
 
-# age =14
-# if age>18:
+# age =139
+# print(age)   # Agar age bhi show karna hai tab ise aise karenge
+# if age<18:
 #     print("Not Adult")
-#print(age)
+# else:
+#     print("Adult")
 
 
 # age = 14
@@ -54,34 +57,34 @@
 # name ="hello"   # galat hai check karna hai
 
 
-# variable =10
-# print(type(variable))
+variable =10
+print(type(variable))
 
-# variable= "abdul"
-# print(type(variable))
+variable= "abdul"
+print(type(variable))
 
-# variable = 34.4
-# print(type(variable))
+variable = 34.4
+print(type(variable))
 
-# variable = 1232
-# print(type(variable))
-# print(variable)
+variable = 1232
+print(type(variable))
+print(variable)
 
-# a = 10+6j
-# print(a)
-# print(type(a))
-
-
-
-# x= True
-# print(x)    
-# print(type(x))
+a = 10+6j
+print(a)
+print(type(a))
 
 
 
-# xy = None
-# print(xy)
-# print(type(xy))
+x= True
+print(x)    
+print(type(x))
+
+
+
+xy = None
+print(xy)
+print(type(xy))
 
 
 

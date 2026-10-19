@@ -1,3 +1,3 @@
-a = 10
-# b = 20 
-# print(a<b and a!=b)
+xy = None
+print(xy)
+print(type(xy))
