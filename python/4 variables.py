@@ -8,7 +8,7 @@
 
 #Implicit Type casting
 # a = 10   #int 
-# b = 3  #float
+# b = 3.0  #float
 # c = a/b  #float
 # c= int (c)
 # print(a,type(a))
@@ -19,7 +19,7 @@
 
 
 # age = 25
-# print (type(age))
+# print (age,type(age))
 
 # #type coversion
 # age_str = str(age)
@@ -41,15 +41,17 @@
 
 #simple calculator
 
-# num1 = float(input("Enter First Number: "))
-# num2 = float(input("Enter Second Number: "))
+num1 = float(input("Enter First Number: "))
+num2 = float(input("Enter Second Number: "))
 
-# sum = num1+ num2
-# difference = num1-num2
-# product = num1 * num2
-# qoutient = num1/num2
+# operation = input("Enter an Operation (+, -, *, /):")   # ye wala condition apply nahi ho raha hai
 
-# print("Sum: ", sum)
-# print("Difference: ", sum)
-# print("Product: ", sum)
-# print("Qoutient: ", sum)
+sum = num1+ num2
+difference = num1-num2
+product = num1 * num2
+qoutient = num1/num2
+
+print("Sum: ", sum)
+print("Difference: ", sum)
+print("Product: ", sum)
+print("Qoutient: ", sum)
